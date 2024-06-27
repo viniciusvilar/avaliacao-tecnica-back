@@ -19,7 +19,7 @@ Os dados necessários para o resultado devem ser consumidos da API externa infor
 }
 ```
 
-- O tempo de resposta da requisição deverá ser menor do que 1 minuto e 30 segundos, sendo diferencial qualquer tempo menor do que este.
+- O tempo de resposta da requisição deverá ser menor do que 1 minuto e 40 segundos, sendo diferencial qualquer tempo menor do que este.
 
 ### Diferenciais
 
